@@ -1,0 +1,46 @@
+From 4522e01835a31e82ce335d438c2b47a8cc8c4ab3 Mon Sep 17 00:00:00 2001
+From: Shubham Saxena <72197947+caffeine-coder25@users.noreply.github.com>
+Date: Tue, 21 Jun 2022 12:35:25 +0530
+Subject: [PATCH 2/3] Update file2.cpp
+
+---
+ file2.cpp | 28 +---------------------------
+ 1 file changed, 1 insertion(+), 27 deletions(-)
+
+diff --git a/file2.cpp b/file2.cpp
+index f88450b..2ee9d13 100644
+--- a/file2.cpp
++++ b/file2.cpp
+@@ -1,27 +1 @@
+-#include<bits/stdc++.h>
+-using namespace std;
+-
+-#define int long long
+-#define mod 1e9 + 7
+-#define inf 1e18
+-#define ps(x,y) fixed<<setprecision(y)<<x
+-#define w(x) int x; cin >> x; while(x--)
+-
+-void caffeine_coder25() {
+-	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+-	//#ifndef ONLINE_JUDGE
+-	//freopen("input.txt", "r", stdin);
+-	//freopen("output.txt", "w", stdout);
+-	//#endif 
+-}
+-
+-void solve(){
+-	
+-}
+-
+-int32_t main() {
+-	caffeine_coder25();
+-
+-	solve();
+-	return 0;
+-}
+\ No newline at end of file
++ahem ahem check!
+-- 
+2.36.0
+
