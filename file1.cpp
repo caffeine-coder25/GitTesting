@@ -11,6 +11,7 @@ int main() {
 #endif 
 	
 	cout << "Hello";
+	cout << "changed";
 	
 	return 0;
 }
